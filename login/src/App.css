@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* PERFECT CENTER */
+.container {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(to bottom, #6a5acd, #3b2ea3);
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical c
+  
+  enter */
+}
+
+/* LOGIN CARD */
+.card {
+  background: white;
+  width: 350px;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.title {
+  color:rgb(228, 151, 8);
+  margin-bottom: 5px;
+  
+}
+
+.subtitle {
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+/* WHITE INPUTS */
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background: white;
+  color: black;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to right, #4a90e2, #3b5cc4);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.register {
+  font-size: 14px;
+  margin-top: 15px;
+  color: #7033cc;
+  cursor: pointer;
+}
+.card h3 {
+  margin: 5px 0;
+  color:#293142
+}
+
+.card h1 {
+  margin: 10px 0;
+  color: orange;
+}
+
+.card input {
+  margin-bottom: 10px;
+}
