@@ -1,0 +1,8 @@
+com\example\phonepaywalletbackend\PhonepayWalletBackendApplication.class
+com\example\phonepaywalletbackend\entity\Transaction.class
+com\example\phonepaywalletbackend\PhonepayApplication.class
+wallet\Wallet.class
+com\example\phonepaywalletbackend\controller\TestController.class
+com\example\phonepaywalletbackend\entity\Wallet.class
+com\example\phonepaywalletbackend\entity\Transaction$TransactionStatus.class
+com\example\phonepaywalletbackend\entity\User.class
